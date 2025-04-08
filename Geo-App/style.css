@@ -269,12 +269,12 @@
         bottom: -2%;
         left: 50%;
         transform: translateX(-50%);
-        background:rgb(51, 47, 47);
-        border-radius: 10px 10px 0px 10px;
+        background:rgb(25, 23, 23);
         display: flex;
         justify-content: center;
         align-items: center;
     }
-
 }
+
+
 
